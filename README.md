@@ -8,3 +8,7 @@ Lab exercises for the course Machine Learning for Master of Data Science for Pub
 **CommunitiesandCrime**: Download this dataset where your ML Lab notebooks are saved for Tutorial 2.
 
 **Tutorial 3**: Ridge Regression and Lasso Regression using Scikit-Learn on the Communities and crime Dataset from Tutorial 2.
+
+**Tutorial 4 and Tutorial 5** : Using Heart Disease Dataset for EDA, ridge regression, lasso regression and logistic regression.
+
+**Tutorial 6**: Using ISLP to get Hitters Data. Then performing Ridge Regression, Kernel Regression using Gaussian and Polynomial Kernels.
